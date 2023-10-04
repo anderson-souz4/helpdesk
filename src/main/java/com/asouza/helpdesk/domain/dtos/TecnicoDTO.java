@@ -1,4 +1,4 @@
-package com.asouza.helpdesk.domain;
+package com.asouza.helpdesk.domain.dtos;
 
 import com.asouza.helpdesk.domain.entities.Tecnico;
 import com.asouza.helpdesk.domain.enums.Perfil;

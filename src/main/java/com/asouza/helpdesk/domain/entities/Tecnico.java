@@ -1,6 +1,6 @@
 package com.asouza.helpdesk.domain.entities;
 
-import com.asouza.helpdesk.domain.TecnicoDTO;
+import com.asouza.helpdesk.domain.dtos.TecnicoDTO;
 import com.asouza.helpdesk.domain.enums.Perfil;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
